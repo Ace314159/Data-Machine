@@ -1,0 +1,1 @@
+"Adoni", "Anantapur", "Bhimavaram", "Chittoor", "Guntur", "Hindupur", "Kadapa", "Kakinada", "Kurnool", "Machilipatnam", "Madanapalli", "Nandyal", "Narasaraopet", "Nellore", "Ongole", "Praddatur", "Rajahmundry", "Srikakulam", "Tanuku", "Tirupati", "Vijayawada", "Visakhapatnam", "Vizianagaram"

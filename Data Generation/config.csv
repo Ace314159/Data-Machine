@@ -1,0 +1,6 @@
+FieldName,Type,NumberMin,NumberMax,StringSource,,,,,,,,,,,,,
+ID,PersonName,MiddleName,Surname,Age,Sex,Education,Income,Networth,StreetNum,Street,Suburb,City,District,State,Pin,Latitude,Longitude
+number,string,string,string,number,string,string,number,number,number,string,string,string,string,string,number,number,number
+1111111111,,,,0,,,1,1,1,,,,,,111111,0,0
+9999999999,,,,110,,,500,1500,9999,,,,,,999999,180,90
+<fileNameForFirstNameTodo>,,,,,,,,,,,,,,,,,
